@@ -1,1 +1,2 @@
 # NamingMatters
+The project aims at helping entrepreneurs determine whether their product or company names have risky associations. We implemented Fuzzy search algorithm to return top results with their calculated risk scores, and hyperlinks to company websites for convenient investigation. It uses online news articles, business licenses, and NASDAQ data to return the riskiest names that have closest similarity to the searched keyword along with links to websites using NewsAPI for thorough investigation.
